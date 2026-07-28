@@ -1,5 +1,17 @@
 # Scientific Agent Skills
 
+## POLYMATHICA Portfolio Context
+
+This repository is tracked on the `kevmoz` account as supporting scientific-agent capability reference material for POLYMATHICA and PSIC workflow design. It is not presented as the PSIC implementation itself.
+
+For the current POLYMATHICA public architecture context, see:
+
+- Main profile: [kevmoz](https://github.com/kevmoz)
+- Governed Mathematics Core: [kevmoz/Polymathica_Mathematics_Core](https://github.com/kevmoz/Polymathica_Mathematics_Core)
+- Public evidence demo: [kevmoz/polymathica-hackathon](https://github.com/kevmoz/polymathica-hackathon)
+
+The original Scientific Agent Skills project documentation below remains authoritative for this repository's own package scope.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Version](https://img.shields.io/badge/Version-2.53.0-blue.svg)](pyproject.toml)
 [![Skills](https://img.shields.io/badge/Skills-148-brightgreen.svg)](#-whats-included)
